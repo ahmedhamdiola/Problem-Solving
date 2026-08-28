@@ -12,7 +12,7 @@ every problem (leetcode or codeforces) will be documented here starting from tod
 | #   | Problem                      |
 | --- | ---------------------------- |
 | 217 | Contains Duplicate           |
-| 20  | Valid Parentheses            |
+| 242  | Valid Anagram            |
 | 1   | Two Sum                      |
 | 49  | Group Anagrams               |
 | 347 | Top K Frequent Elements      |
@@ -20,7 +20,7 @@ every problem (leetcode or codeforces) will be documented here starting from tod
 | 238 | Product of Array Except Self |
 | 128 | Longest Consecutive Sequence |
 
-**Progress:** `8 / 9` problems completed
+**Progress:** `8 / 8` problems completed
 
 ---
 
