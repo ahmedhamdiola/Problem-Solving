@@ -1,6 +1,7 @@
 # Problem Solving
 
-every problem (leetcode or codeforces) will be documented here starting from today 27/1/2026
+Every problem (LeetCode or Codeforces) will be documented here starting from today 27/1/2026.
+
 ---
 
 ## 🗺️ NeetCode Roadmap
@@ -12,7 +13,7 @@ every problem (leetcode or codeforces) will be documented here starting from tod
 | #   | Problem                      |
 | --- | ---------------------------- |
 | 217 | Contains Duplicate           |
-| 242  | Valid Anagram            |
+| 242 | Valid Anagram                |
 | 1   | Two Sum                      |
 | 49  | Group Anagrams               |
 | 347 | Top K Frequent Elements      |
@@ -24,10 +25,26 @@ every problem (leetcode or codeforces) will be documented here starting from tod
 
 ---
 
+### Two Pointers ✅
+
+**Problems Solved:** 5
+
+| #   | Problem                            |
+| --- | ---------------------------------- |
+| 125 | Valid Palindrome                   |
+| 167 | Two Sum II - Input Array Is Sorted |
+| 15  | 3Sum                               |
+| 11  | Container With Most Water          |
+| 42  | Trapping Rain Water                |
+
+**Progress:** `5 / 5` problems completed
+
+---
+
 ### 📌 Progress
 
 * [x] Arrays & Hashing
-* [ ] Two Pointers
+* [x] Two Pointers
 * [ ] Sliding Window
 * [ ] Stack
 * [ ] Binary Search
